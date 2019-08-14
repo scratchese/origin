@@ -19,10 +19,7 @@ Standard open source project starter kit.
 ## Usage
 
 ```shell
-$ npm i -g @amazingandyyy/open-standard-project
-$ node-run
-# or
-$ node-run index.js
+$ git clone git@github.com:amazingandyyy/open-standard-project.git
 ```
 
 ## License
