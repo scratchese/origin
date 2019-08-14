@@ -6,11 +6,11 @@ Standard open source project starter kit.
 </p>
 
 <p align="center">
-   <a href="https://github.com/amazingandyyy/standard-open-source-projec/blob/master/LICENSE">
+   <a href="https://github.com/amazingandyyy/open-standard-project/blob/master/LICENSE">
       <img src="https://img.shields.io/badge/License-MIT-green.svg" />
    </a>
-   <a href="https://circleci.com/gh/amazingandyyy/standard-open-source-projec">
-      <img src="https://circleci.com/gh/amazingandyyy/standard-open-source-projec.svg?style=svg" />
+   <a href="https://circleci.com/gh/amazingandyyy/open-standard-project">
+      <img src="https://circleci.com/gh/amazingandyyy/open-standard-project.svg?style=svg" />
    </a>
 </p>
 
@@ -19,7 +19,7 @@ Standard open source project starter kit.
 ## Usage
 
 ```shell
-$ npm i -g @amazingandyyy/standard-open-source-projec
+$ npm i -g @amazingandyyy/open-standard-project
 $ node-run
 # or
 $ node-run index.js
