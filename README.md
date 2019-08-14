@@ -14,7 +14,7 @@ Standard open source project starter kit.
    </a>
 </p>
 
-> run run run!
+> open source!
 
 ## Usage
 
