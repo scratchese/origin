@@ -1,16 +1,16 @@
 <h1 align="center">
-🏃 open-standard-project
+🏃 scratchese-origin
 </h1>
 <p align="center">
 Standard open source project starter kit.
 </p>
 
 <p align="center">
-   <a href="https://github.com/amazingandyyy/open-standard-project/blob/master/LICENSE">
+   <a href="https://github.com/amazingandyyy/scratchese-origin/blob/master/LICENSE">
       <img src="https://img.shields.io/badge/License-MIT-green.svg" />
    </a>
-   <a href="https://circleci.com/gh/amazingandyyy/open-standard-project">
-      <img src="https://circleci.com/gh/amazingandyyy/open-standard-project.svg?style=svg" />
+   <a href="https://circleci.com/gh/amazingandyyy/scratchese-origin">
+      <img src="https://circleci.com/gh/amazingandyyy/scratchese-origin.svg?style=svg" />
    </a>
 </p>
 
@@ -20,9 +20,9 @@ Standard open source project starter kit.
 ## Installation
 
 ```shell
-$ npm i --save open-standard-project
+$ npm i --save scratchese-origin
 # or
-$ yarn add open-standard-project
+$ yarn add scratchese-origin
 ```
 
 ## Usage
