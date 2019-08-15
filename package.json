@@ -37,12 +37,13 @@
     "url": "git://github.com/amazingandyyy/open-standard-project.git"
   },
   "devDependencies": {
-    "husky": "^3.0.3",
     "lint-staged": "^9.2.1",
     "standard": "*"
   },
   "files": [
     "index.js"
   ],
-  "dependencies": {}
+  "dependencies": {
+    "@amazingandyyy/git-hooks": "^0.1.0"
+  }
 }
