@@ -1,8 +1,8 @@
 <h1 align="center">
-🏃 open-standard-project
+🎁 scratchese-origin
 </h1>
 <p align="center">
-Standard open source project starter kit.
+Standard open source project starter kit for scratchese.
 </p>
 
 <p align="center">
