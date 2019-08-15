@@ -20,6 +20,7 @@ Standard open source project starter kit for scratchese.
 ## Installation
 
 ```shell
+$ git clone git@github.com:amazingandyyy/scratchese-origin.git
 $ npm i --save scratchese-origin
 # or
 $ yarn add scratchese-origin
@@ -28,7 +29,7 @@ $ yarn add scratchese-origin
 ## Usage
 
 ```javascript
-const lib = require('pen-standard-project');
+const lib = require('scratchese-origin');
 
 ```
 
