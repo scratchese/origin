@@ -16,10 +16,20 @@ Standard open source project starter kit.
 
 > open source!
 
-## Usage
+
+## Installation
 
 ```shell
-$ git clone git@github.com:amazingandyyy/open-standard-project.git
+$ npm i --save open-standard-project
+# or
+$ yarn add open-standard-project
+```
+
+## Usage
+
+```javascript
+const lib = require('pen-standard-project');
+
 ```
 
 ## License
