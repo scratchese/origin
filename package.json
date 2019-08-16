@@ -5,7 +5,7 @@
   "scripts": {
     "test": "standard --fix",
     "dev": "node-run",
-    "prepublish": "git reset && npm version patch --force && git add .",
+    "prepublish:local": "git reset && npm version patch --force && git add .",
     "publish:public": "npm publish --access=public",
     "precommit": "npm run test"
   },
